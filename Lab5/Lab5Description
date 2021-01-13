@@ -1,0 +1,5 @@
+	This program estimates the value of pi when the user inputs an integer value of points to be
+plotted. Pi is estimated by randomly plotting the number of points “inside a 1x1 square.” The 
+estimate of pi is calculated using the ratio of dots that would fall under the curve of a quarter 
+circle with a radius of 1 and the total number of points. The best estimate of pi is kept and 
+recorded as the program offers to continually generate a new estimate until the user decides to stop.
