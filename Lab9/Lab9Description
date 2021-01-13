@@ -1,0 +1,5 @@
+	The objective of this lab is essentially the same as lab 8, which was to implement an 
+API for parking lots in a district. Going off UML diagrams that were given, the ParkingLot and 
+District classes needed to be created, working, and compatible with the ParkingDriver class. This 
+District class, however, supports up to twenty parking lots with an array instead of the 
+previous 3 that were hardcoded.
