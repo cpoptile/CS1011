@@ -1,0 +1,3 @@
+The objective of this lab is to implement an API for parking lots in a district. Going off 
+UML diagrams that were given, the ParkingLot and District classes needed to be created, working, 
+and compatible with the ParkingDriver class.
