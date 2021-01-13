@@ -1,0 +1,4 @@
+	This program generates a small game that asks the user to pick an option in hopes of winning. 
+There are two options, one which grows an initial value either linearly or exponentially. If 
+the user chooses the option that is greater than the other at the end of a randomly generated 
+stopping point, they win the game
