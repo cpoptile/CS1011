@@ -1,0 +1,3 @@
+The objective of this lab is to create a game that simulates a generic tabletop game that showcases 
+a battle between a warrior (user) and a mugwump. The game relies on rolling dice to decide initial 
+hitpoints, damage done, whether an attack misses, and the attacks of the mugwump.
